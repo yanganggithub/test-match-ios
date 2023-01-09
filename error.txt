@@ -1,0 +1,38 @@
+[广告] 21:33:47.889 DCloud 2023新春招聘开启，欢迎前端、Android、C++/QT来投简历! 详情点击
+21:33:51.098 项目 'byteeffect' 开始编译...
+21:33:54.474 3.6.14
+21:33:55.384 请注意运行模式下，因日志输出、sourcemap以及未压缩源码等原因，性能和包体积，均不及发行模式。
+21:33:56.316 正在编译中...
+21:33:58.098 nvue中不支持如下css。如全局或公共样式受影响，建议将告警样式写在ifndef APP-PLUS-NVUE的条件编译中，详情如下：
+21:33:58.102 项目 'byteeffect' 编译成功。
+21:33:58.106 ERROR: property value `inline-block` is not supported for `display` (supported values are: `flex`) at components/chat-room.nvue:97
+21:33:58.204 正在建立手机连接...
+21:33:59.523 当前自定义基座的SDK与HBuilderX自带的基座SDK版本不一致，可能有兼容问题，请及时制作新版自定义基座
+21:33:59.530 正在安装手机端自定义基座...
+21:34:03.755 安装自定义基座App完成
+21:34:03.760 正在同步手机端程序文件...
+21:34:09.754 同步手机端程序文件完成
+21:34:10.857 正在启动HBuilder调试基座...
+21:34:12.244 应用【byteeffect】已启动
+21:34:13.657 App Launch at App.vue:4
+21:34:13.661 App Show at App.vue:7
+21:34:23.710 [Object] {"type":"init"}  at pages/index/index.vue:48
+21:34:25.260 App Hide at App.vue:10
+21:34:27.860 已获取的权限：android.permission.RECORD_AUDIO at pages/liveshow/liveshow.nvue:280
+21:34:27.865 开启音频 at pages/liveshow/liveshow.nvue:284
+21:34:27.866 已获取的权限：android.permission.CAMERA at pages/liveshow/liveshow.nvue:280
+21:34:27.870 开启视频 at pages/liveshow/liveshow.nvue:291
+21:34:27.875 App Show at App.vue:7
+21:34:27.879 [Object] {"type":"startLocalAudio"}  at pages/liveshow/liveshow.nvue:286
+21:34:27.879 [Object] {"type":"setGSensorMode"}  at pages/liveshow/liveshow.nvue:309
+21:34:27.884 [Object] {"type":"setVideoEncoderMirror"}  at pages/liveshow/liveshow.nvue:312
+21:34:27.888 [Object] {"type":"setVideoEncoderParam"}  at pages/liveshow/liveshow.nvue:315
+21:34:27.893 [Object] {"type":"addListener"}  at pages/liveshow/liveshow.nvue:346
+21:34:27.893 [Object] {"type":"enterRoom"}  at pages/liveshow/liveshow.nvue:356
+21:34:27.898 [Object] {"type":"onMicDidReady"}  at pages/liveshow/liveshow.nvue:318
+21:34:27.912 [Object] {"type":"onEnterRoom","code":363}  at pages/liveshow/liveshow.nvue:318
+21:34:27.940 [Object] {"type":"onSendFirstLocalAudioFrame"}  at pages/liveshow/liveshow.nvue:318
+21:34:29.919 [Object] {"quality":1,"userId":"","type":"onNetworkQuality","remoteQuality":[]}  at pages/liveshow/liveshow.nvue:318
+21:34:32.589 [Object] {"quality":1,"userId":"","type":"onNetworkQuality","remoteQuality":[]}  at pages/liveshow/liveshow.nvue:318
+21:34:32.594 [Object] {"type":"exitRoom"}  at pages/liveshow/liveshow.nvue:98
+21:34:32.599 [Object] {"type":"destroySharedInstance"}  at pages/liveshow/liveshow.nvue:101
